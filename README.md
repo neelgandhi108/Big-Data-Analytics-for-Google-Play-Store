@@ -2,23 +2,8 @@
 ## ABSTRACT
 
 
-Google Play Store contains millions of Apps. These apps are downloaded and been used by millions
-and billions of users. Whenever a user browse or search for apps on Play store, a list of apps are
-shown to the user in which each app contains the app name along with its rating. Usually the user
-prefers to download highly rated apps because highly rated apps reflect users’ satisfaction. In order
-to gain high ratings, app developer uses different techniques and tweaks other than the app quality its
-self. Developers use attractive app titles, demanding icons, and other things to gain better ratings for
-their apps. However, there is no scientific approach to find the real impact of using attractive titles or
-any other such thing in order to gain higher ratings. Therefore, in this paper, we examine a number of
-factors of google play store apps and identify the influence of these factors using variable
-importance. For this purpose, real-world Google Play store apps dataset is used in this paper to
-identify the importance of these factors. For identification of important variables, Random Forest,
-Linear Regression Model and Support Vector Regression are used. The performance of the model is
-evaluated using standard performance evaluation techniques. The results show that some factors
-have higher significance and influence the app ratings. Moreover, keyword analysis has taken place
-to find the important words used in app title that results in higher and lower ratings. So in this
-project, I have tried to perform analysis and prediction into the Google Play store application dataset
-that I have collected from kaggle.com. Using Big Data techniques such as Hive I have tried to
-discover the relationships among various attributes present in my dataset such as which application is
-free or paid, about the user reviews, rating of the application. And using Deep Learning I have tried
-to make a prediction about the user reviews that which review is positive or negative.
+The Google Play Store hosts a vast collection of millions of apps that are downloaded and used by billions of users worldwide. When users browse or search for apps, they are presented with a list of options, each displaying the app name and its rating. Typically, users tend to gravitate towards highly rated apps, as they reflect user satisfaction. App developers employ various techniques and optimizations, apart from the inherent app quality, to obtain high ratings. These include using attractive app titles, compelling icons, and other strategies to enhance their app's rating. However, there is currently no scientific approach to determine the actual impact of employing such techniques on achieving higher ratings.
+
+This project aims to investigate several factors related to Google Play Store apps and assess their influence using variable importance analysis. To accomplish this, we utilize a real-world dataset obtained from the Google Play Store to identify the significance of these factors. Random Forest, Linear Regression Model, and Support Vector Regression methods are employed to identify important variables. The models' performance is evaluated using standard evaluation techniques. Our findings reveal that certain factors hold greater significance and have a notable impact on app ratings. Additionally, we conduct keyword analysis to identify important words used in app titles that correlate with higher and lower ratings.
+
+In this project, we perform an analysis and prediction on the Google Play Store application dataset collected from kaggle.com. Leveraging Big Data techniques, such as Hive, we explore the relationships among various attributes within the dataset, including whether an application is free or paid, user reviews, and application ratings. Furthermore, utilizing Deep Learning, we attempt to predict whether user reviews are positive or negative. By conducting this research, we aim to gain insights into the dynamics of the Google Play Store ecosystem and provide valuable information for app developers and users alike.
